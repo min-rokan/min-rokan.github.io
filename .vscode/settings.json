@@ -3,9 +3,17 @@
         "**/_includes": true,
         "**/_layouts": true,
         "**/_sass": true,
+        "**/.editorconfig": true,
+        "**/.git*": true,
         "**/*.gemspec": true,
+        "**/CHANGELOG.md": true,
         "**/Gemfile*": true,
         "**/LICENSE": true,
-        "**/package*": true
+        "**/package*": true,
+        "**/Rakefile": true,
+        "**/README.md": true,
+        "**/screenshot*": true,
+        "**/staticman.yml": true,
+        "**/test": true
     }
 }
