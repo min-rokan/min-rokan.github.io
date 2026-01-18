@@ -1,0 +1,11 @@
+{
+    "files.exclude": {
+        "**/_includes": true,
+        "**/_layouts": true,
+        "**/_sass": true,
+        "**/*.gemspec": true,
+        "**/Gemfile*": true,
+        "**/LICENSE": true,
+        "**/package*": true
+    }
+}
