@@ -11,13 +11,13 @@ main:
         url: /categories/css/data-science/
       - title: "Papers"
         url: /categories/css/paper/
-      - title: "Just Recording"
-        url: /categories/css/record/
+      - title: "Memo"
+        url: /categories/css/memo/
   - title: "Food"
     url: /categories/food/
     children:
       - title: "Books"
-        url: /categories/Food/Books/
+        url: /categories/Food/books/
   - title: "Music"
     url: /categories/music/
   # - title: "About"

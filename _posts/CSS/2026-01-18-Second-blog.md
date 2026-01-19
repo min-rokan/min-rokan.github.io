@@ -1,8 +1,8 @@
 ---
-title: "사회과학 논문 리뷰"
+title: "Review of <The Strength of weak ties>(1973) 리뷰"
 categories:
   - CSS
-  - Social-Science
+  - Papers
 tags: [Papers, News]
 ---
 # The Strength of weak ties
