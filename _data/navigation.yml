@@ -12,12 +12,12 @@ main:
       - title: "Papers"
         url: /categories/css/paper/
       - title: "Just Recording"
-        url: /categories/css/record
+        url: /categories/css/record/
   - title: "Food"
     url: /categories/food/
     children:
       - title: "Books"
-        url:/categories/Food/Books/
+        url: /categories/Food/Books/
   - title: "Music"
     url: /categories/music/
   # - title: "About"
