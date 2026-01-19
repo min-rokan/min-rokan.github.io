@@ -4,7 +4,7 @@
     <label for="ac-toc">메뉴 열기</label>
     <ul class="nav__items" id="category_tag_menu">
         <li>
-              📂 <span style="">전체 글 수</style> <span style=""></style> <span style="">개</style> 
+              📂 <span style="">전체 글 수</style>  <span style=""></style>{{ sum }} <span style="">개</style> 
         </li>
         <li>
           <span class="nav__sub-title">CSS</span>
