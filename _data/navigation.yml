@@ -6,18 +6,18 @@ main:
     url: /categories/css/
     children:
       - title: "Social Science"
-        url: /social-science/
+        url: /categories/css/social-science/
       - title: "Data Science"
-        url: /data-science/
+        url: /categories/css/data-science/
       - title: "Papers"
-        url: /paper/
+        url: /categories/css/paper/
       - title: "Memo"
-        url: /memo/
+        url: /categories/css/memo/
   - title: "Food"
     url: /categories/food/
     children:
       - title: "Books"
-        url: /books/
+        url: /categories/food/books/
   - title: "Music"
     url: /categories/music/
   # - title: "About"
