@@ -1,0 +1,35 @@
+ { assign sum = site.posts | size }
+  <nav class="nav__list">
+    <input id="ac-toc" name="accordion-toc" type="checkbox" />
+    <label for="ac-toc">메뉴 열기</label>
+    <ul class="nav__items" id="category_tag_menu">
+        <li>
+              📂 <span style="">전체 글 수</style> <span style=""></style> <span style="">개</style> 
+        </li>
+        <li>
+          <span class="nav__sub-title">CSS</span>
+              <ul>
+                  { for category in site.categories }
+                      { if category[0] == "SocialScience" }
+                          <li><a href="/categories/SocialScience" class="">SocialScience ()</a></li>
+                      { endif }
+                  { endfor }
+              </ul>
+              <ul>
+                  { for category in site.categories }
+                      { if category[0] == "Projects" }
+                          <li><a href="/categories/Projects" class="">Projects ()</a></li>
+                      { endif }
+                  { endfor }
+              </ul>
+          <span class="nav__sub-title">Language</span>
+              <ul>
+                  { for category in site.categories }
+                      { if category[0] == "English" }
+                          <li><a href="/categories/English" class="">English ()</a></li>
+                      { endif }
+                  { endfor }
+              </ul>
+        </li>
+    </ul>
+  </nav>

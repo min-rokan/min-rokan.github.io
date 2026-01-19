@@ -1,6 +1,5 @@
 {
     "files.exclude": {
-        "**/_includes": true,
         "**/_layouts": true,
         "**/_sass": true,
         "**/.editorconfig": true,
