@@ -11,14 +11,14 @@
               <ul>
                   {% for category in site.categories %}
                       {% if category[0] == "SocialScience" %}
-                          <li><a href="/categories/SocialScience" class="">SocialScience ()</a></li>
+                          <li><a href="/categories/SocialScience" class="">SocialScience ({{ category[1] | size }})</a></li>
                       {% endif %}
                   {% endfor %}
               </ul>
               <ul>
                   {% for category in site.categories %}
                       {% if category[0] == "Projects" %}
-                          <li><a href="/categories/Projects" class="">Projects ()</a></li>
+                          <li><a href="/categories/Projects" class="">Projects ({{ category[1] | size }})</a></li>
                       {% endif %}
                   {% endfor %}
               </ul>
@@ -26,7 +26,7 @@
               <ul>
                   {% for category in site.categories %}
                       {% if category[0] == "English" %}
-                          <li><a href="/categories/English" class="">English ()</a></li>
+                          <li><a href="/categories/English" class="">English ({{ category[1] | size }})</a></li>
                       {% endif %}
                   {% endfor %}
               </ul>
