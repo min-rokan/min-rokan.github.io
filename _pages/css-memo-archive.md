@@ -1,6 +1,6 @@
 ---
 title: "CSS memo"
-layout: archivea
+layout: archive
 permalink: /categories/css/memo/
 author_profile: true
 taxonomy: memo
