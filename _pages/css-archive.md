@@ -1,6 +1,6 @@
 ---
 title: "Computational Social Science"
-layout: archivea
+layout: archive
 permalink: /categories/css/
 author_profile: true
 taxonomy: css
