@@ -1,46 +1,46 @@
 ---
-title: "Review of <The Strength of Weak Ties>(1973) 리뷰"
+title: "Review of The Strength of Weak Ties(1973)"
 categories:
   - SocialScience
 tags: [Papers, News]
 ---
-### The Strength of weak ties, Mark S.Granovetter
+# The Strength of weak ties, Mark S.Granovetter
 
 ## Abstract
-Small&well-defined and primary groups are having strong ties.
-Strong ties vary with correlation of their network.
+Small&well-defined and primary groups are having strong ties.  
+Strong ties vary with correlation of their network.  
 Weak ties can illustrate about relations between groups and segments of social structure not easily defined.
-1차집단(가족,친한 친구)같은 작고 경계가 뚜렷한 집단들은 강한 유대를 가진다.
-강한 유대와 서로 간의 네트워크의 겹침정도는 비례한다.
-약한 유대는 집단 간의 관계와 일반적으로 분석되는 강한 유대의 관계들로는 설명되지 않는 사회의 단면을 보여준다.
+> 1차집단(가족,친한 친구)같은 작고 경계가 뚜렷한 집단들은 강한 유대를 가진다.
+> 강한 유대와 서로 간의 네트워크의 겹침정도는 비례한다.
+> 약한 유대는 집단 간의 관계와 일반적으로 분석되는 강한 유대의 관계들로는 설명되지 않는 사회의 단면을 보여준다.
 
-vary -> 비례하다
-primary groups -> 1차 집단
+> vary -> 비례하다
+> primary groups -> 1차 집단
 
-## First
+### First
 We have insights about macro situation and ideas about micro situations, but we don't understand macro-micro interaction
-우리는 거시적 현상에 대한 통찰력도 미시적 현상에 대한 아이디어들도 있지만 소집단 즉 미시의 상호작용이 어떻게 대규모 패턴 즉 거시에 영향을 미치는지에 대해서는 파악하지 못하고 있다.
+> 우리는 거시적 현상에 대한 통찰력도 미시적 현상에 대한 아이디어들도 있지만 소집단 즉 미시의 상호작용이 어떻게 대규모 패턴 즉 거시에 영향을 미치는지에 대해서는 파악하지 못하고 있다.
 *What is Qualitative study? what is the difference betwenn Large-scale statistical study and former one?*
-## Second
+### Second
 Limits of current Sociometry
-기존 소시오메트리의 한계
-## Third
-Because of technical complexity of structual issues, we choose the strategy focusing on "Strength of interpersonal ties". We focus relation between "Strength of ties" and macro phenomean. Even if our studies are qualitative but it's relate to mathmatical models.
-구조적 이슈를 상세하게 다루는 연구들은 기술적 복잡성 때문에 우리는 이 논문에서 "유대의 강도"에 집중하는 전략 취함. "유대의 강도"와 거시적 현상과의 연관성에 집중하고 기본적으로 질적(비수리적)이지만 모델링의 가능성 있음
+> 기존 소시오메트리의 한계
+### Third
+Because of technical complexity of structual issues, we choose the strategy focusing on "Strength of interpersonal ties". We focus relation between "Strength of ties" and macro phenomean. Even if our studies are qualitative but it's relate to mathmatical models.  
+> 구조적 이슈를 상세하게 다루는 연구들은 기술적 복잡성 때문에 우리는 이 논문에서 "유대의 강도"에 집중하는 전략 취함. "유대의 강도"와 거시적 현상과의 연관성에 집중하고 기본적으로 질적(비수리적)이지만 모델링의 가능성 있음
 ## The Strength of Ties
-시간, 정서적 강도, 친밀감, 상호 서비스라는 4가지 요소로 유대감의 정도는 판별될 수 있다.
-연구에서는 명확히 수치적으로 계산하진 않고 직관적으로 유대가 강한지, 약한지, 없는지 정도만 사용할 것이다.
+> 시간, 정서적 강도, 친밀감, 상호 서비스라는 4가지 요소로 유대감의 정도는 판별될 수 있다.
+> 연구에서는 명확히 수치적으로 계산하진 않고 직관적으로 유대가 강한지, 약한지, 없는지 정도만 사용할 것이다.
 *How do we consider that four elements these days?*
 *EX. SNS, Messages frequency, community*
 
-## Meaning of "Absent" and Overlap Hypothesis
-Absent not only means no connenction but also means 'negligible' connection like newspaper shop owner and buyer.
+### Meaning of "Absent" and Overlap Hypothesis
+Absent not only means no connenction but also means 'negligible' connection like newspaper shop owner and buyer.  
 Overlap Hypothesis assert the stronger tie of A and B, the larger the proportion of individuals in group S to whom they will both be tied.
 *We can apply these thesis in SNS friend.*
 
 ### WEAK TIES IN EGOCENTRIC NETWORKS
 ### We
-## dictionary
+### dictionary
 
 confine 한정시키다
 transpire 일어난다
