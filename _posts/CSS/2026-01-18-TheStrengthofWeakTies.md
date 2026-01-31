@@ -60,7 +60,7 @@ If Ties of A-B, A-C are strong, then tie of B-C is likey to happen.
 Since A-B is not a bridge.  
 It means **All bridges are weak ties**. 
 but it happen rarely in large networks. But bridging function may be served locally. It means even if there are any other way to contact A-B and it's shortest path except A-B is called N, if N is over 2, we can call A-B as local bridge of degree N.  
-The more bigger N is, the more important that local bridge is.
+**The more bigger N is, the more important that local bridge is**. 
 Davis's suggestion: In interpersonal flow, probablity the flow of 'whatever', in these paragraphs especially information, is directly proportional to the number of all-positive paths connecting i and j and inversely proportional to the length of such paths.
 
 <!-- 
