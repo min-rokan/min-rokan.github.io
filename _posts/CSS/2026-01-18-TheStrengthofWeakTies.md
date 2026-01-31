@@ -18,7 +18,12 @@ primary groups -> 1차 집단 -->
 ### First
 We have insights about macro situation and ideas about micro situations, but we don't understand macro-micro interaction
 <!-- 우리는 거시적 현상에 대한 통찰력도 미시적 현상에 대한 아이디어들도 있지만 소집단 즉 미시의 상호작용이 어떻게 대규모 패턴 즉 거시에 영향을 미치는지에 대해서는 파악하지 못하고 있다. -->
+
+*What is Qualitative study?*
+*What is the difference betwenn Large-scale statistical study and former one?*
+<!-- 우리는 거시적 현상에 대한 통찰력도 미시적 현상에 대한 아이디어들도 있지만 소집단 즉 미시의 상호작용이 어떻게 대규모 패턴 즉 거시에 영향을 미치는지에 대해서는 파악하지 못하고 있다. -->
 *What is Qualitative study? what is the difference betwenn Large-scale statistical study and former one?*
+
 ### Second
 Limits of current Sociometry
 <!-- 기존 소시오메트리의 한계 -->
@@ -28,14 +33,41 @@ Because of technical complexity of structual issues, we choose the strategy focu
 ## The Strength of Ties
 <!-- 시간, 정서적 강도, 친밀감, 상호 서비스라는 4가지 요소로 유대감의 정도는 판별될 수 있다.
 연구에서는 명확히 수치적으로 계산하진 않고 직관적으로 유대가 강한지, 약한지, 없는지 정도만 사용할 것이다. -->
+Four elements. 
+*How do we consider that four elements these days?*. 
+
+<!-- 시간, 정서적 강도, 친밀감, 상호 서비스라는 4가지 요소로 유대감의 정도는 판별될 수 있다.
+연구에서는 명확히 수치적으로 계산하진 않고 직관적으로 유대가 강한지, 약한지, 없는지 정도만 사용할 것이다. -->
 *How do we consider that four elements these days?*
 *EX. SNS, Messages frequency, community*
 
-### Meaning of "Absent" and Overlap Hypothesis
-Absent not only means no connenction but also means 'negligible' connection like newspaper shop owner and buyer.  
-Overlap Hypothesis assert the stronger tie of A and B, the larger the proportion of individuals in group S to whom they will both be tied.
+> ### Meaning of "Absent" and Overlap Hypothesis
+*Absent* not only means no connenction but also means 'negligible' connection like newspaper shop owner and buyer.  
+*Overlap Hypothesis* assert the stronger tie of A and B, the larger the proportion of individuals in group S to whom they will both be tied.  
 *We can apply these thesis in SNS friend.*
 
+Relationship of A-B, A-C, B-C
+1. (A-B)(A-C) == friend.
+2. If A has strong ties with each other. Probablity of becoming friend of B and C is higher. 
+3. A sim B and A sim C so B sim C == Birds of feather flock together
+4. Peoples want to be friend with Friend of their friend by psycological strain.
+*Does it mean Forbidden Triad?  
+![image](../../assets/images/image_forbiddentriad.png)
+
+# **No strong tie is a bridge**
+Bridge: line in a network which provides the only path between two points.   
+If Ties of A-B, A-C are strong, then tie of B-C is likey to happen.  
+Since A-B is not a bridge.  
+It means **All bridges are weak ties**. 
+but it happen rarely in large networks. But bridging function may be served locally. It means even if there are any other way to contact A-B and it's shortest path except A-B is called N, if N is over 2, we can call A-B as local bridge of degree N.  
+The more bigger N is, the more important that local bridge is.
+Davis's suggestion: In interpersonal flow, probablity the flow of 'whatever', in these paragraphs especially information, is directly proportional to the number of all-positive paths connecting i and j and inversely proportional to the length of such paths.
+
+<!-- 
+congruent 들어맞는, 조화된, 적합한 
+short of ~에 미달하는, 못미치는
+stipulate 규정하다, 명기하다
+-->
 ### WEAK TIES IN EGOCENTRIC NETWORKS
 
 <!-- ### dictionary
