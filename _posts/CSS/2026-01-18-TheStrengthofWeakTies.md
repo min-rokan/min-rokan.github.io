@@ -83,3 +83,5 @@ So only weak ties can make him reach a wider world.
 People's trong dense networks only posseses information already possesed by their ego.
 ### WEAK TIES AND COMMUNITY ORGANIZATION
 Failure of community organization in the italian cohesive community of West end. 
+Unless information is transmiited through personal ties, people don't believe and care it. And also people don't believe given leader without intermediary personal contacts.  
+Importance of capacity to predict and affect their behavior about trust in leaders. It's also same as leader.
