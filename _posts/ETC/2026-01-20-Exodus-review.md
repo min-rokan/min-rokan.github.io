@@ -1,5 +1,5 @@
 ---
-title: "Review of <Exodus>(2013) Paul Colier"
+title: "Review of Exodus(2013) Paul Colier"
 categories:
   - SocialScience
 tags: [Book, Immigration]

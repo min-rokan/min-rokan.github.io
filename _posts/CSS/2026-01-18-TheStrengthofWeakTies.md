@@ -84,4 +84,37 @@ People's trong dense networks only posseses information already possesed by thei
 ### WEAK TIES AND COMMUNITY ORGANIZATION
 Failure of community organization in the italian cohesive community of West end. 
 Unless information is transmiited through personal ties, people don't believe and care it. And also people don't believe given leader without intermediary personal contacts.  
-Importance of capacity to predict and affect their behavior about trust in leaders. It's also same as leader.
+Importance of capacity to predict and affect their behavior about trust in leaders. It's also same as leader.  
+*About Westend*. 
+Coheisve group can exist with overall fragmentation. 
+It's impossible for each person to tie to all others in the community, network structure did indeed break down into the isolated cliques.  
+Although Westend community had weak ties, if it isn't bridge, the community would be fragmented.  
+*Weak ties of Westend is almost friend of friend*. 
+Charlestown is different, they have bridges.
+Because they had **worked in the area**.
+DHL model == The central proposition in structural sociometry
+> Interpersonal choices tend to be **transitive** - if P chooses O and O chooses X, then P is likely to choose X"
+==>Acoording to this assumption, asymmetric choices or nonchoices are only between cliques and if asymmetry present it runs only in one direction.  
+DHL Model  
+1. In terms of "choices"
+2. Asking whom they like best or would prefer to do something with
+Granovetter
+1. In terms of "ties"
+2. Asking whom they actually spend time.  
+> Transitivity, then, is claimed to be a fucntion of the strength of ties, rather than a general feature of social structrue
+So it means in weak ties, they won't follow transitivity and the important thing is not mind, but interaction.  
+By applying to it, we can analysis amorphous chunks not justify as face-to-face groups.  
+*Recently, anthropologists call it as "quasi-groups". 
+
+### Conclusion
+Linkage of micro and macro levels is important in development of sociological theory. 
+Such linkage generates Paradox: weak ties blamed as generating alienation are seen as indispensable to individual's opportunities and to their integration into communities, strong ties breeding local cohesion lead to overall fragmentation.  
+## Limit
+Ignoring the content of ties as treating only the strength of ties. 
+**Question that still remains**
+Relation between 
+1. strength and degree of specialization of ties
+2. strength and hierarchical structure
+Way to handle "negative" ties. 
+Should tie strength be developed as continuous variable?
+Developmental sequence of network structure over time. 
