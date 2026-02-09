@@ -4,13 +4,13 @@ categories:
   - SocialScience
 tags: [Book, Immigration]
 ---
-### Exodus
+# Exodus
 Before i read this book, i just see a immigration problem as a culture and race problem. Muslim, crime, racism and conflicts around various tendency party.
 
 ## Part4 A life bar for who
-# Chapter8 Change politics
-Immigration could be negotiation card for discriminated group or way who want to kick discriminated group.
-**The reason why a poor country cannot get out of poor is bad democratic system.**
+### Chapter8 Change politics
+Immigration could be negotiation card for discriminated group or way who want to kick discriminated group.  
+**The reason why a poor country cannot get out of poor is bad democratic system.** 
 So if immigrated people face the developed democratic socialogy, they will press home government.  
 But it is hard to answer it is meaningful.  
 Becaue it's too hard to handle the governance by meaurement hardness and lack of data.  
@@ -30,11 +30,11 @@ Good factor of diffusion democratic discipline
 이미 교육받은 자들의 해외 이주는 그 정치적 효과가 모호한 반면 유학을 위한 해외 이주는 유익한 효과를 준다.
 유학 과정에서 이들은 자신들의 규범을 민주 사회의 기준에 맞게 재설정하고 이 규범들을 고국에 들고 온다. -->
 
-# Chapter9 Moving People and Money
+### Chapter9 Moving People and Money
 **Is "Brain drain" reasonable worry?**
 Immigration directly outflow their talented people, but it's indirectly inflow talent people.  
-Because immiration could be a purpose to educate child and also they could be a good role model for people. Even if child and people study and work hard, they might face a lot of wall blocking thier immigration. So they live country as a talented people.
-But goverment want to decrease their spending in education, because social benefit have been slipped out by immigration even if they get some income by their transfer.
+Because immiration could be a purpose to educate child and also they could be a good role model for people. Even if child and people study and work hard, they might face a lot of wall blocking thier immigration. So they live country as a talented people.  
+But goverment want to decrease their spending in education, because social benefit have been slipped out by immigration even if they get some income by their transfer.  
 Specially it is critcal to small country which is hard to recover a ealry group escape.
 <!-- 두뇌유출과 유능한 인력이 이주하면 실제로 그 사회에 남은 총 인재의 수도 줄어지는지? 에 대한 쟁점
 이주는 직접적으로는 인재를 줄이지만 간접적으로는 인재를 늘린다?
@@ -46,31 +46,51 @@ Specially it is critcal to small country which is hard to recover a ealry group 
 다만 정부의 공립을 통한 '교육'에 대한 지출이 이민자들의 송금에서 이득을 챙김에도 감소(이민자로 교육의 사회적 편익이 빠져나가니) 
 큰나라 순익, 작은 나라 순손실 <- 작은 나라 이주율 높은데 초기 집단 탈출은 인재회복 힘들게 만듦
 안 좋은 조건에도 돌아오는 유학생-->
-**Losing job motivation**
-생산성이 높은 "내부자" -> 효율적 조직으로 이주 원함 -> 이주하면 외부자 태도 가진 사람 위주
+
+
+**Losing job motivation** 
+High productivity "*inner person" wants to immigrate effective group.
+==>If they immigrate, their former group is belikey to constitue by "outer group". In that case, it's hard to being "inner person" because of offensive looking of the "outer person". 
+But even if "outer group" is real problem, there are no studies about relation between immigration and this probelm. 
+*Inner person: people who internalize purpose of group.
+<!-- 생산성이 높은 "내부자" -> 효율적 조직으로 이주 원함 -> 이주하면 외부자 태도 가진 사람 위주
 내부자 태도를 가지려 해도 눈초리
 1. 외부자 태도는 문제인가? 문제 맞음
 2. 근데 이주가 이러한 문제 부각?
-일단 논리적으로는 그럴듯하지만 연구는 없음
-*찾아볼까?*
-**Moving money, remittance**
-송금이 상쇄하는 것은 인력 손실로 인한 생산량의 손실
+일단 논리적으로는 그럴듯하지만 연구는 없음 --> 
+> Doesn't this study still exist?
+**Moving money, remittance** 
+Remittances offsets production loss caused by immigration. 
+Because of the hardness of controll way of using money, it's hard to say the transfer used properly. 
+But anyway transfer could be effective insurance and expect a long term income increase.  And it is helpful for a poor country.
+Magnitude of remittances is related to several factors.  
+First if inflow government ease the immigration policy, immigrants transfer few money because they can immigrate their family.
+Second, Selecting educational background policy can increase remittances but if academic ability is above certain level, their family is wealth enough so they don't transfer.
+<!-- 송금이 상쇄하는 것은 인력 손실로 인한 생산량의 손실
 어려운 송금과원조금의 적절한 사용
 송금==효과적인 보험 역할+장기적인소득증대 -> 이주라는 모험 선택하는 이유
 but이주정책 완화할수록 고향에 돈 안보냄 -> 어차피 데려오면ㄷ ㅗ니ㅣ깐
-학력중시선별정책도 학력 일정 수준 넘어가면 어차피 안보내도 될 정도로 잘 삼
+학력중시선별정책도 학력 일정 수준 넘어가면 어차피 안보내도 될 정도로 잘 삼 -->
+
 
 **Solution of overpopulation**
-과잉인구 해결책==이주?
+Is solution of overpopulation is immigration?  
+Although immigration could increase the rest of worker pay, leak of skilled worker who can pull up unskilled worker's pay is more important than former one.  
+This kinds of immigration cause expand gap of skilled and unskilled worker's pay. As a result, unskilled worker's productivity decreases.
+So proper solution is **immigrating from the country to the city in nation.** 
+The high density population is make country poor, on the other hand, city is reverse.  
+Rural exouds can solve poor by increase of land per capita. And city need to increase productivity of unskilled worker.  
+Unban subdivision and local transportation is important for high population density that can make market for corporation. 
+
+<!-- 
 이주를 통해 인구 감소하면 남은 인력 임금 미미하게 오름
 근데 사실 숙련 인력은 비숙력 인력의 소득도 끌어올린다.
 즉 이러한 숙련 인력의 이주는 결과적으로 숙련에 따른 임금우대가 커지게 만들면서 비숙련 인력 생산성 감소시킴.
 해결책은 **시골지역에서 "자국"의 도시로 이동하는 것.**
 시골은 높은 인구 밀도 -> 빈곤, 도시는 높은 인구 밀도 -> 번영
 이농은 1인당 토지량 상승으로 빈곤해소. 도시도 이농자들 생산성 향상에 도움되어야함
-어떻게? 도시 구획화와 지역 교통이 중요 -> 인구밀집이 중요(기업의 시장을 제공해줌)
-
-# Chapter 10 What remains for remain people
+어떻게? 도시 구획화와 지역 교통이 중요 -> 인구밀집이 중요(기업의 시장을 제공해줌) -->
+### Chapter 10 What remains for remain people
 이주는 남겨진 사람들에게 어쩄든 유용하다.
 중요한 점은 이주율이 "높아질 경우" 출신국에 유익한가 해로운가
 즉 빈곤국의 지속적인 이주 가속화가 유입국 정부에서 효과적인 이주 통제를 하는 상황보다 빈곤국에 더 유익한가.
@@ -114,7 +134,7 @@ but이주정책 완화할수록 고향에 돈 안보냄 -> 어차피 데려오�
 이주현상이 국가라는 개념을 무용지물로 만들지는 않지만 다문화 주의 정책과 함께 이주의 가속화가 계속되면 국가의 생존으로 위협할 수 있다.
 협력과 소득 재분배는 문화적 분리만으로는 이룩할 수 없다.
 '인종차별하지마라', '양보하라', '다른 문화를 포영하는 법을 배워라' 같은 말들은 사람을 수세적으로 만든다.
-## Chapter12 Best immigration policy for everyone
+### Chapter12 Best immigration policy for everyone
 이주 현상이 유입국 원주민에게 매우 부정적 영향을 끼쳤다는 증거는 아직 없다.
 자칭 '진보 진영'의 생각과는 다르게 효과적 통제가 없을 경우 이주가 늘수록 유입국 원주민과 극빈국의 남겨진 사람들 양쪽 모두에게 부정적 영향을 줄만큼 이주가 급증한다는 증거는 있다.
 이렇듯 이주가 많은 영향을 줌에도 이주에 대한 통제권이 있는 집단은 실질적으로 유입국 원주민밖에 없다.
