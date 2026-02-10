@@ -9,7 +9,7 @@ Before i read this book, i just see a immigration problem as a culture and race 
 
 ## Part4 A life bar for who
 ### Chapter8 Change politics
-Immigration could be negotiation card for discriminated group or way who want to kick discriminated group.  
+Migration could be negotiation card for discriminated group or way who want to kick discriminated group.  
 **The reason why a poor country cannot get out of poor is bad democratic system.** 
 So if immigrated people face the developed democratic socialogy, they will press home government.  
 But it is hard to answer it is meaningful.  
@@ -58,8 +58,8 @@ But even if "outer group" is real problem, there are no studies about relation b
 1. 외부자 태도는 문제인가? 문제 맞음
 2. 근데 이주가 이러한 문제 부각?
 일단 논리적으로는 그럴듯하지만 연구는 없음 --> 
-> Doesn't this study still exist?
-**Moving money, remittance** 
+**Doesn't this study still exist?**
+**Moving money, remittance**   
 Remittances offsets production loss caused by immigration. 
 Because of the hardness of controll way of using money, it's hard to say the transfer used properly. 
 But anyway transfer could be effective insurance and expect a long term income increase.  And it is helpful for a poor country.
@@ -73,14 +73,14 @@ but이주정책 완화할수록 고향에 돈 안보냄 -> 어차피 데려오�
 학력중시선별정책도 학력 일정 수준 넘어가면 어차피 안보내도 될 정도로 잘 삼 -->
 
 
-**Solution of overpopulation**
+**Solution of overpopulation** 
 Is solution of overpopulation is immigration?  
 Although immigration could increase the rest of worker pay, leak of skilled worker who can pull up unskilled worker's pay is more important than former one.  
 This kinds of immigration cause expand gap of skilled and unskilled worker's pay. As a result, unskilled worker's productivity decreases.
 So proper solution is **immigrating from the country to the city in nation.** 
 The high density population is make country poor, on the other hand, city is reverse.  
 Rural exouds can solve poor by increase of land per capita. And city need to increase productivity of unskilled worker.  
-Unban subdivision and local transportation is important for high population density that can make market for corporation. 
+**Unban subdivision and local transportation is important for high population density that can make market for corporation.**
 
 <!-- 
 이주를 통해 인구 감소하면 남은 인력 임금 미미하게 오름
@@ -91,26 +91,33 @@ Unban subdivision and local transportation is important for high population dens
 이농은 1인당 토지량 상승으로 빈곤해소. 도시도 이농자들 생산성 향상에 도움되어야함
 어떻게? 도시 구획화와 지역 교통이 중요 -> 인구밀집이 중요(기업의 시장을 제공해줌) -->
 ### Chapter 10 What remains for remain people
-이주는 남겨진 사람들에게 어쩄든 유용하다.
+Anyway, immigration is useful for remains. 
+THe important point is whether regulating immigration acceleration is more useful than not regulating.  
+Marginal effect of immigration
+1. Ideal migration rate is maximum of "brain inflow" 
+2. Transfer is disadvantage when migration rate exceed peak.
+International migration is biggest triggers for defusing ideology, but there are any studies to prove that diaspora is important for defusing ideology(unlike international student).  
+Diaspora is distant from their home country and it makes hard to consider policy organically and also technology development makes people face global things in their homecountry without migration.
+<!-- 이주는 남겨진 사람들에게 어쩄든 유용하다.
 중요한 점은 이주율이 "높아질 경우" 출신국에 유익한가 해로운가
 즉 빈곤국의 지속적인 이주 가속화가 유입국 정부에서 효과적인 이주 통제를 하는 상황보다 빈곤국에 더 유익한가.
 이주의 한계적 효과. 이상적인 이주율은 두뇌 유입의 정점일 때.
 송금도 이주가 정점을 넘어서면 역효과.
 즉 이주가 줄었을 때 더 큰 도움이 된다.
 국제 이주는 이념을 전파하는 가장 큰 촉매제이지만 디아스포라가 이념 전파에 중요함을 증명하는 연구는 없다(유학생과 다르게).
-디아스포라는 고국과 멀어서 정책을 유기적으로 고안하지 못함. 또한 기술 발달로 공간적 거리가 줄어들었다.
-**Aid as Imigration**
-직접적인 원조의 효과는 어마어마하지 않다. 하지만 우리가 염원하는 사회의 모습을 드러낸다.
+디아스포라는 고국과 멀어서 정책을 유기적으로 고안하지 못함. 또한 기술 발달로 공간적 거리가 줄어들었다. --> 
+**Aid as Imigration** 
+Direct aid is not that effective a lot, but it shows society that we want.  
+Transfer comes from income after tax. And the income came from functional social structure made by native of inflow nation. Although the fact, it is frivolous to impose a tax to immigrator that divide class of citizen.  
+So we can just see it as indirect aid policy. 
+But fund for brain outflow is came from outflow nation.
+<!-- 직접적인 원조의 효과는 어마어마하지 않다. 하지만 우리가 염원하는 사회의 모습을 드러낸다.
 송금은 이주자의 세후소득에서 나온다. 그 소득은 원주민들이 만들어놓은 순기능적 사회구조에서 나온다.
 그럼에도 생산성 프리미엄 즉 세금은 2등시민을 만든다는 관점에서 경솔하다.
 다만 원조정책의 일환으로 본다.
 두뇌유출을 위한 자금은 유출국의 교육비에서 나온다.
 즉 이에 대한 보상을 유입국 정부는 해야한다고 주장 존재한다.
-즉 유입국에서 원조는 다시 돌려받는 돈이다.
-
-
-순기능적 사회규범의 목표치는 시대적 상황과 여러 요인들로 인해 끊임없이 유동하고 이 때 현재의 상황과 목표치에 큰 괴리가 있을 때 그 편차치가 사회갈등의 정도. 이를 피드백 루프를 통해 꾸준히 맞춰가는게 정책?
-
+즉 유입국에서 원조는 다시 돌려받는 돈이다. -->
 ## Part4. Nation and nationlism
 **Britian for British**
 국가주의. "나는 생각한다. 그러므로 나는 존재한다." 하지만 요즘은 사회의 맥락을 모르기에 데카르트의 사고는 뒤집혔다?
@@ -154,3 +161,5 @@ Unban subdivision and local transportation is important for high population dens
 이주의 규모가 방대해지기전까지 유출과 유입은 소득을 유의미하게 변화시키지 않는다. 또한 빈곤국의 소득이 증가하면 이주 자금 마련이 쉬워지고 교육 수준 향상은 이주의 자격요건 충족에 도움이 된다.
 -> 이주 자격 요건이 주기적으로 까다로워지면 가속화를 상쇄할 수 있다. 이주율과 디아스포라의 규모는 유출국의 인구가 감소될 때까지 증가될 수 있다.
 **Remaining people, happy middle zone
+
+순기능적 사회규범의 목표치는 시대적 상황과 여러 요인들로 인해 끊임없이 유동하고 이 때 현재의 상황과 목표치에 큰 괴리가 있을 때 그 편차치가 사회갈등의 정도. 이를 피드백 루프를 통해 꾸준히 맞춰가는게 정책?
