@@ -119,6 +119,15 @@ But fund for brain outflow is came from outflow nation.
 즉 이에 대한 보상을 유입국 정부는 해야한다고 주장 존재한다.
 즉 유입국에서 원조는 다시 돌려받는 돈이다. -->
 ## Part4. Nation and nationlism
+In modern times, we think like Descartes saying "I think, therefore I am".
+But we can judge ourselves without social context. Social context is first and then we judge ourselves following the context.  
+Individualism and Globalization as **identity of modern times could threaten community and sharing identity by nation.** 
+Like mutual consideration damaged by market expand, Consideration that reduce social cost could also be damaged by individual selfhood.  
+Nation identity is important as engine for equality to redistribute and provide public property by tax.  
+If lower identity like tribe idenetity is bigger than nation identity, it makes hard to do above things.
+Although nation identity affect aggression of young generation, it could make cooperation and redistribution.  
+Even if migration destory a notion of nation, it threathen survive of nation and just saying "Don't be racist", "Give it up" and "Learning to embrace other cultures" can make people defensive.
+
 **Britian for British**
 국가주의. "나는 생각한다. 그러므로 나는 존재한다." 하지만 요즘은 사회의 맥락을 모르기에 데카르트의 사고는 뒤집혔다?
 근대의 정체성 == 개인주의+세계화
@@ -163,3 +172,4 @@ But fund for brain outflow is came from outflow nation.
 **Remaining people, happy middle zone
 
 순기능적 사회규범의 목표치는 시대적 상황과 여러 요인들로 인해 끊임없이 유동하고 이 때 현재의 상황과 목표치에 큰 괴리가 있을 때 그 편차치가 사회갈등의 정도. 이를 피드백 루프를 통해 꾸준히 맞춰가는게 정책?
+z ₩
