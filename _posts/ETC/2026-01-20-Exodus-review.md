@@ -31,7 +31,7 @@ Good factor of diffusion democratic discipline
 유학 과정에서 이들은 자신들의 규범을 민주 사회의 기준에 맞게 재설정하고 이 규범들을 고국에 들고 온다. -->
 
 ### Chapter9 Moving People and Money
-**Is "Brain drain" reasonable worry?**
+**Is "Brain drain" reasonable worry?**  
 Immigration directly outflow their talented people, but it's indirectly inflow talent people.  
 Because immiration could be a purpose to educate child and also they could be a good role model for people. Even if child and people study and work hard, they might face a lot of wall blocking thier immigration. So they live country as a talented people.  
 But goverment want to decrease their spending in education, because social benefit have been slipped out by immigration even if they get some income by their transfer.  
@@ -48,17 +48,16 @@ Specially it is critcal to small country which is hard to recover a ealry group 
 안 좋은 조건에도 돌아오는 유학생-->
 
 
-**Losing job motivation** 
+**Losing job motivation**   
 High productivity "*inner person" wants to immigrate effective group.
 ==>If they immigrate, their former group is belikey to constitue by "outer group". In that case, it's hard to being "inner person" because of offensive looking of the "outer person". 
 But even if "outer group" is real problem, there are no studies about relation between immigration and this probelm. 
 *Inner person: people who internalize purpose of group.
-<!-- 생산성이 높은 "내부자" -> 효율적 조직으로 이주 원함 -> 이주하면 외부자 태도 가진 사람 위주
-내부자 태도를 가지려 해도 눈초리
+<!-- 생산성이 높은 "내부자" -> 효율적 조직으로 이주 원함 -> 이주하면 외부자 태도 가진 사람 위주 내부자 태도를 가지려 해도 눈초리
 1. 외부자 태도는 문제인가? 문제 맞음
 2. 근데 이주가 이러한 문제 부각?
-일단 논리적으로는 그럴듯하지만 연구는 없음 --> 
-**Doesn't this study still exist?**
+일단 논리적으로는 그럴듯하지만 연구는 없음 -->   
+**Doesn't this study still exist?**  
 **Moving money, remittance**   
 Remittances offsets production loss caused by immigration. 
 Because of the hardness of controll way of using money, it's hard to say the transfer used properly. 
@@ -95,7 +94,7 @@ Anyway, immigration is useful for remains.
 THe important point is whether regulating immigration acceleration is more useful than not regulating.  
 Marginal effect of immigration
 1. Ideal migration rate is maximum of "brain inflow" 
-2. Transfer is disadvantage when migration rate exceed peak.
+2. Transfer is disadvantage when migration rate exceed peak.  
 International migration is biggest triggers for defusing ideology, but there are any studies to prove that diaspora is important for defusing ideology(unlike international student).  
 Diaspora is distant from their home country and it makes hard to consider policy organically and also technology development makes people face global things in their homecountry without migration.
 <!-- 이주는 남겨진 사람들에게 어쩄든 유용하다.
@@ -126,9 +125,9 @@ Like mutual consideration damaged by market expand, Consideration that reduce so
 Nation identity is important as engine for equality to redistribute and provide public property by tax.  
 If lower identity like tribe idenetity is bigger than nation identity, it makes hard to do above things.
 Although nation identity affect aggression of young generation, it could make cooperation and redistribution.  
-Even if migration destory a notion of nation, it threathen survive of nation and just saying "Don't be racist", "Give it up" and "Learning to embrace other cultures" can make people defensive.
+Even if migration destory a notion of nation, it threathen survive of nation and just saying "Don't be racist", "Give it up" and "Learning to embrace other cultures" can make people defensive.  
 
-**Britian for British**
+<!-- **Britian for British**
 국가주의. "나는 생각한다. 그러므로 나는 존재한다." 하지만 요즘은 사회의 맥락을 모르기에 데카르트의 사고는 뒤집혔다?
 근대의 정체성 == 개인주의+세계화
 사람들은 개인이면서 동시에 사회의 구성원이다.
@@ -149,12 +148,23 @@ Even if migration destory a notion of nation, it threathen survive of nation and
 **Threatened country identity**
 이주현상이 국가라는 개념을 무용지물로 만들지는 않지만 다문화 주의 정책과 함께 이주의 가속화가 계속되면 국가의 생존으로 위협할 수 있다.
 협력과 소득 재분배는 문화적 분리만으로는 이룩할 수 없다.
-'인종차별하지마라', '양보하라', '다른 문화를 포영하는 법을 배워라' 같은 말들은 사람을 수세적으로 만든다.
+'인종차별하지마라', '양보하라', '다른 문화를 포영하는 법을 배워라' 같은 말들은 사람을 수세적으로 만든다. -->
 ### Chapter12 Best immigration policy for everyone
+Unlike harmness to native, there is clue about harmness for both of unregulated immigration.  
+Important point is there is only one group that can control migration, inflow government.  
 이주 현상이 유입국 원주민에게 매우 부정적 영향을 끼쳤다는 증거는 아직 없다.
 자칭 '진보 진영'의 생각과는 다르게 효과적 통제가 없을 경우 이주가 늘수록 유입국 원주민과 극빈국의 남겨진 사람들 양쪽 모두에게 부정적 영향을 줄만큼 이주가 급증한다는 증거는 있다.
 이렇듯 이주가 많은 영향을 줌에도 이주에 대한 통제권이 있는 집단은 실질적으로 유입국 원주민밖에 없다.
-**Right to limit immigration**
+**Right to limit migration**  
+Firstm limitless immigation cause extinction of certain nation. 
+"Functional social model" is shared heritage as club good.  
+Migration policy must consider migrator, outflow native and inflow native. 
+And that time, a important question is a **marginal effect of migration** acceleration not a migration is good or bad.  
+1. If migration is only selected by immigrator's analysis, migration wii accelerate until poor nation's population is severly decreased.  
+Mechanism: Migrants make rational decisions based on income gaps and the size of the existing diaspora.
+The Paradox of Development: Contrary to common belief, rising income and education in poor countries often accelerate migration by providing the necessary resources for the journey.
+So optimal policy must target the "Happy Middle zone" by periodically tightening immigration requirements.
+
 무제한 적 이주로 인한 특정 국가의 멸종. '존재 가치' 문제.
 황금률과 빈곡국으로의 대규모 이주. 중국이 아프리카로 대규모 이주한다면 아프리카인들은 점령당한 과거로 인한 거부감.
 이주 제한조치로 인한 한계적 이익과 그럼에도 경제적 이득을 취하지 않는게 합리적인 이유.
@@ -163,7 +173,7 @@ Even if migration destory a notion of nation, it threathen survive of nation and
 이주 정책은 이주자, 유출국 원주민, 유입국 원주민 셋을 모두 고려해야한다.
 즉 이주가 좋은가 나쁜가는 잘못된 질문이다. 중요한 것은 이주의 가속화가 계속될 경우 생길 수 있는 "한계적" 효과이다
 이를 아래의 세개의 블록을 합침으로써 파악한다.
-**Acceleration of immigration**
+**Acceleration of migration**
 이주자와 그들의 결정. 즉 이주를 잠재적 이주자들의 분석적 결정에 맞길 경우 저소득 사회의 인구가 크게 감소할 때까지 이주가 가속화 된다.
 그 이유는 첫번째로 소득 격차가 있을 때 디아스포라가 클 수록 이주가 쉬워 가속도가 붙는다.
 또 이주가 소득 격차에 미치는 영향은 매우 작고 또한 모호하다.
